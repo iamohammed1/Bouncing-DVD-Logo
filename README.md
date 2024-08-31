@@ -39,8 +39,12 @@ cd Bouncing-DVD-Logo-Simulation
 Run the Program:
 python DVD_bouncing.py
 
-Executable Version
-If you prefer not to run the Python script, you can download the executable version of the program from this link.
+### Executable Version
+
+You can download the executable version of the program from the following link:
+
+[Download Bouncing DVD Logo Simulation Executable](https://github.com/iamohammed1/Bouncing-DVD-Logo-Simulation/raw/main/DVD_bouncing.exe)
+
 
 Example Code
 Here's a small snippet showing how the program initializes the DVD logos and handles their movement:
